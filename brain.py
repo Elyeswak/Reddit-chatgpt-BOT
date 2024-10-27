@@ -21,7 +21,7 @@ for comment in comments:
 # posting
 #subreddit.submit(title="test post", selftext=" hello world! testing .... test")
 
-# getting top posts
+# getting top posts in subr
 # top25_posts = subreddit.hot(limit=25,time_filter="all")
 # #top25 = subreddit.hot(limit=25,time_filter="week")
 
